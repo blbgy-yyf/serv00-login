@@ -9,7 +9,8 @@
 
 交流群：https://t.me/yxjsjl
 
-Serv00|CT8一键四协议安装脚本vmess-ws|vmess-ws-tls(argo)|hy2|tuic5
+##Serv00|CT8一键四协议安装脚本vmess-ws|vmess-ws-tls(argo)|hy2|tuic5
+
 bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sb_serv00.sh)
 
 
