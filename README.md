@@ -9,6 +9,10 @@
 
 交流群：https://t.me/yxjsjl
 
+Serv00|CT8一键四协议安装脚本vmess-ws|vmess-ws-tls(argo)|hy2|tuic5
+bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sb_serv00.sh)
+
+
 ### 将代码fork到你的仓库并运行的操作步骤
 
 #### 1. Fork 仓库
